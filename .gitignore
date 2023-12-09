@@ -1,0 +1,31 @@
+# General exclusions
+.DS_Store
+.env*
+build/*
+*.iml
+*.log
+*.map
+*.swo
+.idea/
+.vscode/
+
+# iOS specific exclusions
+ios/Pods
+ios/Podfile
+ios/Podfile.lock
+ios/Flutter/App.framework
+ios/Runner.app
+ios/Flutter/Flutter.framework
+ios/Flutter/flutter.podspec
+
+# Android specific exclusions
+android/app/build
+
+# Other exclusions
+coverage/*
+*.gz
+*.tgz
+
+# Test files
+test/*
+integration_test/*
