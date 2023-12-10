@@ -1,10 +1,22 @@
 # riverpod_boilerplates
 
 This is a project that includes all boilerplate codes needed when developing a new app.
-It will includes,
 
-[] Basic folder structure using flutter_riverpod and its generator.
-[] Authentication Services
+It will includes:  
+- [ ] Basic folder structure using flutter_riverpod and its generator.  
+- [ ] Authentication Services.
+  - [ ] Email/Password
+  - [ ] Google Signin
+  - [ ] Apple Signin
+- [ ] Firebase Setting
+- [ ] AWS Setting
+  - [ ] S3
+  - [ ] Amplify
+  - [ ] EC2
+- [ ] Analytics
+  - [ ] Google Analytics
+  - [ ] Others
+
 
 ## Getting Started
 
