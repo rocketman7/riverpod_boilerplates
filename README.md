@@ -3,8 +3,8 @@
 This is a project that includes all boilerplate codes needed when developing a new app.
 It will includes,
 
-[ ] Basic folder structure using flutter_riverpod and its generator.
-[ ]
+[] Basic folder structure using flutter_riverpod and its generator.
+[] Authentication Services
 
 ## Getting Started
 
