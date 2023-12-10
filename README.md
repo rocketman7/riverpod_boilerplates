@@ -1,7 +1,8 @@
 # riverpod_boilerplates
 
 This is a project that includes all boilerplate codes needed when developing a new app.
-It will includes:
+It will includes,
+
 [ ] Basic folder structure using flutter_riverpod and its generator.
 [ ]
 
